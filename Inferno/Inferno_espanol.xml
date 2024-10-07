@@ -131,12 +131,12 @@
             </lg>
             <lg n="19">
                <l>Sacó la sombra del padre primero,</l>
-               <l>y las de <persName cert="high">Abel</persName>, su hijo, y de <persName type="fictional">Noé</persName>,</l>
+               <l>y las de <persName cert="high" evidence="internal" full="yes" generatedBy="human" instant="unknown" xml:space="default">Abel</persName>, su hijo, y de <persName type="fictional">Noé</persName>,</l>
                <l>del legista <persName cert="high">Moisés</persName>, el obediente; </l>
             </lg>
             <lg n="20">
                <l>del patriarca <persName type="both">Abraham</persName>, del rey David,</l>
-               <l>a Israel con sus hijos y su padre,</l>
+               <l>a <persName cert="high">Israel</persName> con sus hijos y su padre,</l>
                <l>y con Raquel, por la que tanto hizo, </l>
             </lg>
             <lg n="21">
