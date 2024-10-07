@@ -1298,7 +1298,7 @@
             <lg n="43">
                <l>Vi a <persName key="Bruto, César" ref="http://viaf.org/viaf/8949162669339555500005/" cert="high" type="real">Bruto</persName>, aquel que destronó a <persName key="Lucius Tarquinius Priscus" ref="http://www.wikidata.org/entity/Q212671">Tarquino</persName>,</l>
                <l>a <persName key="Cornelia" ref="http://www.wikidata.org/entity/Q234533" cert="high" type="real">Cornelia</persName>, a <persName>Lucrecia</persName>, a <persName cert="high" type="real">Julia</persName>, a <persName key="Marcia" ref="http://www.wikidata.org/entity/Q1893528">Marcia</persName>;</l>
-               <l>y a Saladino vi, que estaba solo; </l>
+               <l>y a <persName cert="high" type="real">Saladino</persName> vi, que estaba solo; </l>
             </lg>
             <lg n="44">
                <l>y al levantar un poco más la vista,</l>
