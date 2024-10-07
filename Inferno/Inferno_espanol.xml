@@ -265,7 +265,7 @@
             </lg>
             <lg n="30">
                <l>Es <persName key="Homer" ref="http://www.wikidata.org/entity/Q6691">Homero</persName>, el mayor de los poetas;</l>
-               <l>el satírico Horacio luego viene;</l>
+               <l>el satírico <persName cert="high" type="both">Horacio</persName> luego viene;</l>
                <l>tercero, Ovidio; y último, Lucano. </l>
             </lg>
             <lg n="31">
