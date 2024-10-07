@@ -895,7 +895,7 @@
             </lg>
             <lg n="42">
                <l>Vi a <persName key="Penthesilea" ref="http://www.wikidata.org/entity/Q379828" cert="high" type="fictional">Pantasilea</persName> y a <persName>Camila</persName>,</l>
-               <l>y al rey Latino vi por la otra parte,</l>
+               <l>y al <persName cert="high" type="fictional">rey Latino</persName> vi por la otra parte,</l>
                <l>que se sentaba con su hija Lavinia. </l>
             </lg>
             <lg n="43">
